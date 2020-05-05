@@ -7,7 +7,7 @@
 }
 
 #envirabox-loading, .envirabox-close, #envirabox-left #envirabox-left-ico, #envirabox-right #envirabox-right-ico {
-    background-image: url('images/envirabox_sprite.png');
+    background-image: url('https://dawudphotography.github.io/portfoliosite/wp-content/plugins/envira-gallery-lite/assets/css/images/envirabox_sprite.png');
 }
 
 #envirabox-loading {
@@ -26,7 +26,7 @@
 #envirabox-loading div {
 	width: 44px;
     height: 44px;
-    background: url('images/envirabox_loading.gif') center center no-repeat;
+    background: url('https://dawudphotography.github.io/portfoliosite/wp-content/plugins/envira-gallery-lite/assets/css/images/envirabox_loading.gif') center center no-repeat;
 }
 
 #envirabox-overlay {
@@ -36,7 +36,7 @@
 	width: 100%;
 	z-index: 988010;
 	display: none;
-	background: url('images/envirabox_overlay.png');
+	background: url('https://dawudphotography.github.io/portfoliosite/wp-content/plugins/envira-gallery-lite/assets/css/images/envirabox_overlay.png');
 	background-color: rgba(0,0,0,.9); /* !important; */
 }
 
@@ -104,7 +104,7 @@
     z-index: 988040;
 	cursor: pointer;
 	display: none;
-	background-image: url("images/envirabox_sprite.png");
+	background-image: url("https://dawudphotography.github.io/portfoliosite/wp-content/plugins/envira-gallery-lite/assets/css/images/envirabox_sprite.png");
 }
 
 #envirabox-error {
@@ -139,7 +139,7 @@
 	width: 35%;
 	cursor: pointer;
 	outline: none;
-	background: transparent url('images/blank.gif');
+	background: transparent url('https://dawudphotography.github.io/portfoliosite/wp-content/plugins/envira-gallery-lite/assets/css/images/blank.gif');
 	z-index: 988040;
 	display: none;
 }
@@ -344,12 +344,12 @@ only screen and (                min-resolution: 192dpi),
 only screen and (                min-resolution: 2dppx) {
 
     #envirabox-loading, .envirabox-close, #envirabox-left #envirabox-left-ico, #envirabox-right #envirabox-right-ico, #envirabox-close {
-        background-image: url('images/envirabox_sprite@2x.png');
+        background-image: url('https://dawudphotography.github.io/portfoliosite/wp-content/plugins/envira-gallery-lite/assets/css/images/envirabox_sprite@2x.png');
         background-size: 44px 152px;
     }
 
     #envirabox-loading div {
-        background-image: url('images/envirabox_loading@2x.gif');
+        background-image: url('https://dawudphotography.github.io/portfoliosite/wp-content/plugins/envira-gallery-lite/assets/css/images/envirabox_loading@2x.gif');
         background-size: 24px 24px;
     }
 

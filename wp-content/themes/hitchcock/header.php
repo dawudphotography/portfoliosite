@@ -107,7 +107,7 @@
 				$title_type = is_singular() ? '2' : '1'; ?>
 		
 				<h<?php echo $title_type; ?> class="blog-title">
-					<a href="<?php echo esc_url( home_url() ); ?>" title="<?php echo esc_attr( get_bloginfo( 'title' ) ); ?> &mdash; <?php echo esc_attr( get_bloginfo( 'description' ) ); ?>" rel="home"><?php echo esc_attr( get_bloginfo( 'title' ) ); ?></a>
+					<a title="<?php echo esc_attr( get_bloginfo( 'title' ) ); ?> &mdash; <?php echo esc_attr( get_bloginfo( 'description' ) ); ?>" rel="home"><?php echo esc_attr( get_bloginfo( 'title' ) ); ?></a>
 				</h<?php echo $title_type; ?>>
 				
 			<?php endif;
