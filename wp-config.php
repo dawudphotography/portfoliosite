@@ -67,6 +67,7 @@ define( 'NONCE_SALT',       'lAAWBE*o}?*e,+>}A`gZTV~!u3wAKS$A<gw<1T+t}LE){o>[[@I
  * N’utilisez que des chiffres, des lettres non-accentuées, et des caractères soulignés !
  */
 $table_prefix = 'wp_';
+define ('JETPACK_DEV_DEBUG', true);
 
 /**
  * Pour les développeurs : le mode déboguage de WordPress.
